@@ -15,12 +15,12 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: Thomas Parton (research group)s.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: thomas.g.parton@gmail.com
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
@@ -57,7 +57,7 @@ main_menu:
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '15:04 PM'
 address_format: en-us
 
 # Site features
