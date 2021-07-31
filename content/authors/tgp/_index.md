@@ -66,7 +66,7 @@ highlight_name: true
 user_groups:
 - Researchers
 ---
-I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My core PhD research is focussed on the [self-assembly of cellulose nanocrystals]({{< ref "res_int/index.md" >}}) as a way to produce structural colour from sustainable materials. 
+I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My core PhD research is focussed on the [self-assembly of cellulose nanocrystals]({{< ref "res_int/_index.md" >}}) as a way to produce structural colour from sustainable materials. 
 
 one of the core themes of this work is the role of chirality (handedness). 
 
