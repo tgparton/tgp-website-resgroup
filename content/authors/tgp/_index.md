@@ -66,5 +66,16 @@ highlight_name: true
 user_groups:
 - Researchers
 ---
+# comment? 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My PhD research is focussed on the self-assembly of cellulose nanocrystals as a way to produce structural colour from sustainable materials. 
+
+In our research group we study chiral iridiscent structures with structural colour (which you may be familar with as iridiescence). I characterise the visual appearance of these structures using techniques such as angle-resolved optical spectroscopy. Build circular dichrosim setup. 
+
+I spend most of my time in the lab, using optical microscopes, electron microscopes, building laser setups, spectroscopy. 
+
+More generally, I'm interested in photonics, self-assembly.
+
+
+
+My research interests include photonics, soft matter physics and nanoscale self-assembly.
