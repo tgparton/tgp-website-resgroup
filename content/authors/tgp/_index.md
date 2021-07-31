@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Nanoscience and Nanotechnology, University of Cambridge 2018-(2022)
+  - course: PhD in Chemistry, University of Cambridge 2018-[2022]
   - course: MRes in Nanoscience and Nanotechnology, University of Cambridge, 2017-2018
   - course: MASt in Applied Mathematics and Theoretical Physics, University of Cambridge, 2015-2016
   - course: MSci Natural Sciences, University College London, 2011-2014
