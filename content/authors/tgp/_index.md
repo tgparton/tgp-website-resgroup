@@ -68,14 +68,16 @@ user_groups:
 ---
 # comment? 
 
-I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My PhD research is focussed on the self-assembly of cellulose nanocrystals as a way to produce structural colour from sustainable materials. 
+I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My core PhD research is focussed on the self-assembly of cellulose nanocrystals as a way to produce structural colour from sustainable materials. 
 
-In our research group we study chiral iridiscent structures with structural colour (which you may be familar with as iridiescence). I characterise the visual appearance of these structures using techniques such as angle-resolved optical spectroscopy. Build circular dichrosim setup. 
+one of the core themes of this work is the role of chirality (handedness). 
 
-I spend most of my time in the lab, using optical microscopes, electron microscopes, building laser setups, spectroscopy. 
+In our research group we study chiral iridiscent structures with structural colour (which you may be familar with as iridiescence). I characterise the visual appearance of these structures using techniques such as angle-resolved optical spectroscopy and hyperspectral imaging. Build circular dichrosim setup. 
 
-More generally, I'm interested in photonics, self-assembly.
+I also characterise samples at the nanoscale using electron microscopy (SEM and TEM). 
+
+More generally, I'm interested in photonics, self-assembly and soft matter physics.
 
 
+As a undergraduate I studied Natural Sciences (Physics and Physical Chemistry) at University College London (UCL), including a year of study abroad at the California Institute of Technology (Caltech). I initially pursued my interest in theoretical high-energy particle physics with an internship at CERN, and a Masters of Advanced Studies (MASt/Part III) in the Department of Applied Maths and Theoretical Physics (DAMTP) at the University of Cambridge. After deciding not to pursue a PhD in high-energy physics, I changed research direction, and returned to Cambridge as part of the NanoDTC MRes+PhD programme in 2017. 
 
-My research interests include photonics, soft matter physics and nanoscale self-assembly.
