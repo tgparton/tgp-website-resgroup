@@ -45,8 +45,8 @@ social:
 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=Gj2vhMAAAAAJ&hl=en
-
+  link: https://scholar.google.co.uk/citations?user=ZSFKctAAAAAJ&hl=en&oi=ao
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/tgparton
@@ -66,9 +66,7 @@ highlight_name: true
 user_groups:
 - Researchers
 ---
-# comment? 
-
-I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My core PhD research is focussed on the self-assembly of cellulose nanocrystals as a way to produce structural colour from sustainable materials. 
+I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My core PhD research is focussed on the [self-assembly of cellulose nanocrystals]({{< ref "res_int/index.md" >}}) as a way to produce structural colour from sustainable materials. 
 
 one of the core themes of this work is the role of chirality (handedness). 
 

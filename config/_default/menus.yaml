@@ -8,11 +8,11 @@ main:
     url: res_int
     weight: 20
   - name: Research Output
-    url: res_out
+    url: event
     weight: 30
   - name: Blog
-    url: blog
+    url: post
     weight: 40
-  - name: Contact
-    url: contact
-    weight: 50
+  # - name: Contact
+  #   url: contact
+  #   weight: 50
