@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Current Research Projects
 cms_exclude: true
 
 # View.

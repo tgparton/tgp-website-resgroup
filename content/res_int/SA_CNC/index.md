@@ -1,0 +1,14 @@
+
+---
+title: test post
+date: 2021-07-31T16:27:21.435Z
+draft: false
+featured: false
+---
+one of the core themes of this work is the role of chirality (handedness). 
+
+In our research group we study chiral iridiscent structures with structural colour (which you may be familar with as iridiescence). I characterise the visual appearance of these structures using techniques such as angle-resolved optical spectroscopy and hyperspectral imaging. Build circular dichrosim setup. 
+
+I also characterise samples at the nanoscale using electron microscopy (SEM and TEM). 
+
+More generally, I'm interested in photonics, self-assembly and soft matter physics.
