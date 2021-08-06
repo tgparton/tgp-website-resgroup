@@ -53,7 +53,7 @@ social:
 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/thomasgparton
+  link: https://www.linkedin.com/in/thomasgparton/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,5 +68,7 @@ user_groups:
 ---
 I'm a third-year PhD student in the [Bio-inspired Photonics Group](https://www.ch.cam.ac.uk/group/vignolini/) at the University of Cambridge. My core PhD research is focussed on the [self-assembly of cellulose nanocrystals]({{< ref "res_int/_index.md" >}}) as a way to produce structural colour from sustainable materials. 
 
-As a undergraduate I studied Natural Sciences (Physics and Physical Chemistry) at University College London (UCL), including a year of study abroad at the California Institute of Technology (Caltech). I initially pursued my interest in theoretical high-energy particle physics with an internship at CERN, and a Masters of Advanced Studies (MASt/Part III) in the Department of Applied Maths and Theoretical Physics (DAMTP) at the University of Cambridge. After deciding not to pursue a PhD in high-energy physics, I changed research direction, and returned to Cambridge as part of the NanoDTC MRes+PhD programme in 2017. 
+As a undergraduate I studied Natural Sciences (Physics and Physical Chemistry) at University College London (UCL), including a year of study abroad at the California Institute of Technology (Caltech), before starting my graduate studies at the University of Cambridge as part of the NanoDTC MRes+PhD programme in 2017.
+
+Between undergrad and PhD, I pursued my interest in theoretical high-energy particle physics with an internship at CERN, and a Masters of Advanced Studies (MASt/Part III) in the Department of Applied Maths and Theoretical Physics (DAMTP) at the University of Cambridge.
 
