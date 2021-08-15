@@ -1,5 +1,5 @@
 ---
-title: TAPPI Nano
+title: [tbd Test Event]
 
 event: TAPPI Nano
 event_url: https://example.org
