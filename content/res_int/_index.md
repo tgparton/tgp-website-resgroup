@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Current research projects are listed below. Each project page contains with a simple introduction aimed at a general audience, followed by a more detailed description aimed at a more technical audience.
