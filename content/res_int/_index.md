@@ -1,5 +1,5 @@
 ---
-title: Current Research Projects
+title: Research Interests
 cms_exclude: true
 
 # View.
@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Current research projects are listed below. Each project page contains with a simple introduction aimed at a general audience, followed by a more detailed description aimed at a more technical audience.
+A list of my research interests is given below. Active projects are featured at the top of the page. Each page contains with a simple introduction aimed at a general audience, followed by a more detailed description aimed at specialists on that topic.
