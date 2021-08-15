@@ -6,8 +6,7 @@ event_url: https://conference.tappinano.org/
 
 summary: Influence of ultrasonication on cellulose nanocrystal photonic films
 
-abstract: | 
-Treatment of cellulose nanocrystal (CNC) suspensions with high-intensity ultrasound is a well-established technique for modifying their colloidal and rheological behaviour. For CNC photonic films, sonication has been shown to increase the chiral nematic pitch, resulting in a red-shift in the peak reflection wavelength of the dried film. Despite the popularity of ultrasonication as a preparation method for CNCs in photonic applications, the way in which it reduces the chirality of the CNC chiral nematic phase is not fully understood.
+abstract: | Treatment of cellulose nanocrystal (CNC) suspensions with high-intensity ultrasound is a well-established technique for modifying their colloidal and rheological behaviour. For CNC photonic films, sonication has been shown to increase the chiral nematic pitch, resulting in a red-shift in the peak reflection wavelength of the dried film. Despite the popularity of ultrasonication as a preparation method for CNCs in photonic applications, the way in which it reduces the chirality of the CNC chiral nematic phase is not fully understood.
 
 In this work, we investigated the changes in CNC morphology and surface chemistry induced by ultrasonication, and their consequences for CNC chiral self-assembly into photonic films. Extraction of the morphology of individual CNCs from their outlines in TEM images enabled advanced shape analysis that elucidated the lateral breakage mechanism of CNCs under ultrasonication. An exploration of CNC size under diverse ultrasonication treatments shows the total sonication energy per suspension volume, rather than energy per CNC dry mass, is the most consistent metric for ultrasonication dose. 
 
