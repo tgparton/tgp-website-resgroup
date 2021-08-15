@@ -6,9 +6,13 @@ draft: false
 featured: false
 ---
 
+
+
 Cellulose is a naturally-occurring polymer. It's the most abundant biopolymer on Earth, as it's used to strengthen the walls of plant cells. Cellulose can therefore be found in many plants. 
 
 Cellulose is very difficult to decompose, which is why it's also a major component of fibre (roughage). We therefore have to use quite aggressive treatment (cooking it in highly concentrated acid at high temperatures).
+
+How does cellulose (essentially a chain of sugar molecules joined together) create such a rigid structure? 
 
 It's interesting that we can produce colour using this twisted arrangement of rods, because we observe very similar structures in the natural world. For instance, the fruits of plants of the Pollia genus (also known as the marble berry) appear shiny and intensely blue in colour due to a very similar arrangement. It's not clear whether this similarity is just a coincidence, or if it tells us something fundamental about the chirality of cellulose fibres. 
 
