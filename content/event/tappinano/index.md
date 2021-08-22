@@ -1,5 +1,5 @@
 ---
-title: Conference Talk TAPPI Nano
+title: Conference Talk, TAPPI Nano
 
 event: TAPPI International Conference on Nanotechnology for Renewable Materials
 event_url: https://conference.tappinano.org/
