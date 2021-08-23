@@ -7,24 +7,19 @@ featured: false
 ---
 
 
+A detailed layman's introduction
 
-In my PhD research, I study how 
+In my PhD research, I study how microscopic transparent rod-shaped particles can assemble together to make colourful structures using light interference. The particles we work with are called cellulose nanocrystals (CNCs). They are made of cellulose, a naturally-occurring polymer that can be found in virtually all plants. Plants make fibres out of cellulose by taking glucose (sugar) molecules and knitting them together to create a densely-packed and highly-ordered crystalline structure. Plants make this dense structure because it's highly rigid, and they use them to strengthen plant cell walls. This strength also makes cellulose difficult to digest when animals (including humans) try to eat the plants - cellulose is a major component of fibre (roughage). 
 
+By cooking cellulose in strong acid, we can extract short sections of these cellulose fibres, which we call cellulose nanocrystals (CNCs). CNCs are rod-like particles, too small to be see under an optical microscope - they're approximately 100 nanometres long and 10 nanometres wide, smaller than individual human cells. The CNCs can be mixed with water to make a cloudy suspension. 
 
+At low concentration, the CNC rods float around freely in the water and can be found pointing uniformly in all directions. As we concentrate this suspension, the CNCs get closer and closer together and become more aware of each other. Here the rod-like shape of the CNCs becomes important - if they all point in random directions, they block each other from moving, like pieces of raw spaghetti randomly placed into a saucepan. However, if the rods are aligned with each other, they have more freedom to move around. Consequently, at higher concentration the CNCs spontaneously start to align with each other. 
 
- I'm studying how microscopic transparent rod-shaped particles can assemble together to make colourful structures using light interference. 
 
 
 
 The behaviour of CNCs is a simple example of self-assembly, a phenomenon where a collection of independently-acting elements come together to have a more complex structure or function. We usually use top-down methods to manufacture highly specific structures. Self-assembly is 
 
-
-
-Cellulose is a naturally-occurring polymer. It's the most abundant biopolymer on Earth, as it's used to strengthen the walls of plant cells. Cellulose can therefore be found in many plants. 
-
-Cellulose is very difficult to decompose, which is why it's also a major component of fibre (roughage). We therefore have to use quite aggressive treatment (cooking it in highly concentrated acid at high temperatures).
-
-How does cellulose (essentially a chain of sugar molecules joined together) create such a rigid structure? 
 
 It's interesting that we can produce colour using this twisted arrangement of rods, because we observe very similar structures in the natural world. For instance, the fruits of plants of the Pollia genus (also known as the marble berry) appear shiny and intensely blue in colour due to a very similar arrangement. It's not clear whether this similarity is just a coincidence, or if it tells us something fundamental about the chirality of cellulose fibres. 
 
