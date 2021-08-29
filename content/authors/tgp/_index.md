@@ -19,8 +19,8 @@ bio: My research interests include photonics, soft matter physics and nanoscale 
 
 interests:
 - Photonics
-- Soft matter physics
 - Self-assembly
+- Soft matter physics
 
 # Education to show in About widget
 education:
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tgp27@cam.ac.uk
+  link: mailto:tgp27(at)cam.ac.uk
 
 - icon: twitter
   icon_pack: fab
