@@ -15,24 +15,24 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: Thomas Parton (research group)s.
+description: Thomas Parton (Research). 
 twitter: ''
 
 # Contact (edit or remove options as required)
 
 email: 
-phone: 
+phone:
 address:
   street: 
-  city: 
-  region: 
+  city:
+  region:
   postcode:
-  country: United Kingdom
-  country_code: UK
+  country:
+  country_code:
 coordinates:
-  latitude: 
+  latitude:
   longitude: 
-directions: 
+directions:
 office_hours:
 appointment_url: 
 contact_links:
