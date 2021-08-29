@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Please feel me to contact me by filling in the form below. 
+If you have any questions or comments, I'd be delighted if you contacted me by filling in the form below.

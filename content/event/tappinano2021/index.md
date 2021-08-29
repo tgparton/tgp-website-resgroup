@@ -1,5 +1,5 @@
 ---
-title: Conference Talk, TAPPI Nano
+title: Talk, TAPPI Nano 2021
 
 event: TAPPI International Conference on Nanotechnology for Renewable Materials
 event_url: https://conference.tappinano.org/
@@ -24,8 +24,8 @@ tags: []
 featured: true
 
 image:
-  caption: 'Figure caption'
-  focal_point: Right
+  caption: ''
+  focal_point: Left
 
 url_code: ""
 url_pdf: ""
