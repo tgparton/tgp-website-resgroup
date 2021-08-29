@@ -1,7 +1,7 @@
 
 ---
 title: Self-assembly of cellulose nanocrystals
-date: 2021-08-29T16:27:21.435Z
+date: 2021-08-27T16:27:21.435Z
 draft: false
 featured: false
 ---
