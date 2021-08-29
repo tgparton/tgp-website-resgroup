@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: publication
     weight: 30
-  - name: Other Research Output
+  - name: Events
     url: event
     weight: 40
   - name: Blog
